@@ -20,7 +20,8 @@ const About = () => (
       >
         <TypingText 
           title="| About Drone Delivery" 
-          textStyle="text-center"/>
+          textStyle="text-center"
+          />
       </motion.div>
     </div>
     About section
